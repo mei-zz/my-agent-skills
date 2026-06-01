@@ -20,9 +20,3 @@ agents: [opencode, claude-code, cursor]
 - 新建UI组件
 - 组件重构
 - 组件库维护
-
-## 测试
-
-运行测试脚本验证skill功能：
-```bash
-node skills/frontend-team/component-builder/scripts/test.js

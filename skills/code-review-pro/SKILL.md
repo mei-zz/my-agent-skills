@@ -30,3 +30,9 @@ agents: [opencode, claude-code, cursor]
 - 具体文件位置和行号
 - 问题描述和修复建议
 - 代码示例
+
+## 测试
+
+运行测试脚本验证skill功能：
+```bash
+node skills/code-review-pro/scripts/test.js

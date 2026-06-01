@@ -20,3 +20,9 @@ agents: [opencode, claude-code, cursor]
 - 新建API接口
 - API重构
 - 接口文档生成
+
+## 测试
+
+运行测试脚本验证skill功能：
+```bash
+node skills/backend-team/api-helper/scripts/test.js

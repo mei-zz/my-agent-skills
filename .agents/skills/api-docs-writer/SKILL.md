@@ -25,3 +25,9 @@ agents: [opencode, claude-code, cursor]
 - 请求参数说明
 - 响应格式说明
 - 示例请求和响应
+
+## 测试
+
+运行测试脚本验证skill功能：
+```bash
+node skills/api-docs-writer/scripts/test.js

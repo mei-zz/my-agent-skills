@@ -6,6 +6,12 @@
       "sourceType": "github",
       "skillPath": "skills/api-docs-writer/SKILL.md",
       "computedHash": "5fc02fa51c30dc2c03a7a237887f7ac1ddcac6aa0dbdd784ec41d10bb37e4224"
+    },
+    "component-builder": {
+      "source": "mei-zz/my-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-team/component-builder/SKILL.md",
+      "computedHash": "3ef1ad5152a14c201c24094797f65989049ccfc54530012a63e375873fba8c81"
     }
   }
 }
