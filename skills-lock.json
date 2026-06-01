@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "api-docs-writer": {
+      "source": "mei-zz/my-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/api-docs-writer/SKILL.md",
+      "computedHash": "5fc02fa51c30dc2c03a7a237887f7ac1ddcac6aa0dbdd784ec41d10bb37e4224"
+    }
+  }
+}
